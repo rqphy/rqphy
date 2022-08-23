@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋 !, I'm Raphaël !</h1>
+<h1 align="center">Hi there 👋  , I'm Raphaël !</h1>
 <h3 align="center">A Front-end developper from Paris 🇫🇷</h3>
 
 <!-- <p align="left"> ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square) </p> -->
