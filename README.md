@@ -6,7 +6,7 @@
 - ⚡ Fun fact: Big 🍔 fan
 
 ------
-### 🔧 Things I code with
+### 🔥 Things I work with
 
 <p>
     <img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black" />
@@ -25,11 +25,10 @@
     <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square">
+    </a>
 </p>
-
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square">
-</a>
 <!--
 **rqphy/rqphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
