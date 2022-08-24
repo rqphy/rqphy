@@ -6,7 +6,8 @@
     </a>
 </p>
 
-- 🌱 I’m currently working at <a href="https://www.wonderstudios.com" target="_blank">@Wonderstudios</a>
+- 🌱 I’m currently working at <a href="https://www.wonderstudios.com" target="_blank">Wonderstudios</a>
+- 📕 Student at <a href="https://www.hetic.net/" target="_blank">Hetic</a>
 - 🚀 Currently exploring ThreeJs
 - ⚡ Fun fact: Big fan of 🍔
 
