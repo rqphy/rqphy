@@ -1,9 +1,13 @@
 <h1 align="center">Hi there 👋  , I'm Raphaël !</h1>
 <h3 align="center">A Front-end developper from Paris 🇫🇷</h3>
-
+<p align="center">
+    <a href="https://github.com/antonkomarev/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square">
+    </a>
+</p>
 - 🌱 I’m currently working at <a href="https://www.wonderstudios.com" target="_blank">@Wonderstudios</a>
-- 🚀 Currently exploring Threejs
-- ⚡ Fun fact: Big 🍔 fan
+- 🚀 Currently exploring ThreeJs
+- ⚡ Fun fact: Big fan of 🍔
 
 ------
 ### 🔥 Things I work with
@@ -34,12 +38,4 @@
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-F7B93E?style=flat-square&logo=Adobe%20Photoshop&logoColor=black" />
     <img src="https://img.shields.io/badge/Figma-13aa52?style=flat-square&logo=figma&logoColor=white" />
     <img src="https://img.shields.io/badge/Burger%20King-43853d?style=flat-square&logo=Burger%20King&logoColor=white" />
-</p>
-
-### 📝 Github stats
-
-<p>
-    <a href="https://github.com/antonkomarev/github-profile-views-counter">
-        <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square">
-    </a>
 </p>
