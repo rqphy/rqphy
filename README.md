@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/React-45b8d8?style=flat-square&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/Vue.js-8DD6F9?style=flat-square&logo=vuedotjs&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/TypeScript-46a2f1?style=flat-square&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/JavaScript-2088FF?style=flat-square&logo=javascript&logoColor=F7DF1E" />
     <img src="https://img.shields.io/badge/ThreeJs-1a73e8?style=flat-square&logo=three.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-007ACC?style=flat-square&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-5849BE?style=flat-square&logo=express&logoColor=white" />
